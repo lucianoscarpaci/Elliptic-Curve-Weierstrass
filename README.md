@@ -16,6 +16,15 @@ This project is a simple implementation of elliptic curve plotting using the Wei
 
 Go to the link above to line 368 and the function EllipticCurve_from_Weierstrass_polynomial(f) and you will see the parameters that you can use to plot the curve in a comment inside the function.
 
+## Curve25519
+
+<img src="curve25519.png" alt="Curve25519" width="400"/>
+
+## Secp256k1
+
+<img src="secp256k1.png" alt="Secp256k1" width="400"/>
+
+
 
 
 
